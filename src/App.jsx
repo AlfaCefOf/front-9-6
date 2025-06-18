@@ -3,7 +3,7 @@ import { Header } from "./assets/componenet/Header/Header";
 import OrderSection from "./assets/componenet/orderSection";
 import NextSection from "./assets/componenet/nextSection";
 import AppSection from "./assets/componenet/AppSection";
-import AppSectionFlip from "./assets/componenet/appSectionFlip";
+import AppSectionFlip from "./assets/componenet/AppSectionFlip"
 import phonePay from "./assets/images/image-removebg-preview (1).png";
 import createAccount from "./assets/images/photo_2025-06-18_12-26-02-removebg-preview.png";
 import infoFood from "./assets/images/image-removebg-preview.png";
