@@ -1,0 +1,18 @@
+button {
+  border: 1px solid #ffffff;
+  padding: 16px 55px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+  background-color: transparent;
+  border-radius: 30px;
+  color: white;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background-color: #fa4a0c;
+  transition: 0.3s ease;
+  box-shadow: 0px 10px 30px 0px #b7322733;
+}

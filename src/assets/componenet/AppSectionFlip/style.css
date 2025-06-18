@@ -1,0 +1,44 @@
+.createAccountFlip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+    gap: 170px;
+    padding: 60px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.createAccount img {
+    width: 260px;
+    height: auto;
+    object-fit: contain;
+}
+
+.rightApp {
+    max-width: 480px;
+}
+
+.rightApp p:first-child {
+    color: #FA4A0C;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+}
+
+.rightApp h6 {
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+    margin-bottom: 16px;
+}
+
+.rightApp p:last-child {
+    color: #737373;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.2px;
+}

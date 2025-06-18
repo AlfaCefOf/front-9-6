@@ -1,0 +1,37 @@
+.container {
+  max-width: 1330px;
+  margin: 0 auto;
+}
+
+header {
+  padding: 15px 60px;
+  width: 100%;
+  background-color: white;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav .nav-right ul {
+  display: flex;
+  align-items: center;
+  gap: 94px;
+}
+
+.nav-right ul li a {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+  color: #252b42;
+  text-align: center;
+  transition: 0.3s ease;
+}
+
+.nav-right ul li a:hover {
+  color: #fa4a0c;
+  transition: 0.3s ease;
+}
