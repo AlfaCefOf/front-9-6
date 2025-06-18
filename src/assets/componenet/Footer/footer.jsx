@@ -6,11 +6,11 @@ function Footer() {
       <footer>
         <div className="container">
           <div className="footerLine">
-            <img src={Logo} alt="" />
+            <a href="./index.html"><img src={Logo} alt="" /></a>
             <ul>
-              <i class="fab fa-twitter"></i>
-              <i class="fab fa-facebook-square"></i>
-              <i class="fab fa-instagram-square"></i>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook-square"></i></a>
+             <a href="#"> <i class="fab fa-instagram-square"></i></a>
             </ul>
            <a target="blank" href="https://sukuna18.github.io/bella-orange/"> <p>Copywright 2020 Bella Onojie.com</p></a>
           </div>

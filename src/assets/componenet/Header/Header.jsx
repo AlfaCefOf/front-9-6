@@ -9,7 +9,7 @@ export function Header() {
         <div className="container">
           <nav>
             <div className="nav-left">
-              <img src={Logo} alt="" />
+             <a href="./index.html"> <img src={Logo} alt="" /></a>
             </div>
             <div className="nav-right">
               <ul>
