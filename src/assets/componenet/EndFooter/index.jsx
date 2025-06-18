@@ -1,4 +1,4 @@
-import Button from "../Button/Button.jsx";
+import Button from "../../componenet/Button/button";
 import "./style.css";
 function EndFooter() {
   return (
